@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Boas-vindas ao meu perfil!</h1>
+<h1 align="center">🚀Olá! Boas-vindas ao meu perfil!</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
 💼 Estagiária em TI (Ticket Manager) na <strong>Atos</strong> <br/>
-🚀 Apaixonada por tecnologia, aprendizado contínuo e transformação digital
+🧠 Apaixonada por tecnologia, aprendizado contínuo e transformação digital
 </p>
 
 ---
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -31,12 +32,12 @@ Incluiu documentação técnica, plano de testes, protótipos no Figma e recurso
 
 ---
 
-### 🌱 Em constante evolução
+### 🌐 Em constante evolução
 Busco sempre aprender, crescer profissionalmente e contribuir com soluções tecnológicas que façam a diferença.
 
 ---
 
-### 📫 Vamos nos conectar!
+### 🌍 Vamos nos conectar!
 
 <p>
   <a href="https://www.linkedin.com/in/anacampaner" target="_blank">
