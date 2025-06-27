@@ -3,7 +3,6 @@
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
 💼 Estagiária em TI (Ticket Manager) na <strong>Atos</strong> <br/>
-🧠 Apaixonada por tecnologia, aprendizado contínuo e transformação digital
 </p>
 
 ---
@@ -30,10 +29,6 @@
 Projeto desenvolvido em equipe com entregas por sprints e aplicação de tecnologias como React, Spring Boot, Swagger, JWT, JUnit e MySQL.  
 Incluiu documentação técnica, plano de testes, protótipos no Figma e recurso de acessibilidade VLibras.
 
----
-
-### 🌐 Em constante evolução
-Busco sempre aprender, crescer profissionalmente e contribuir com soluções tecnológicas que façam a diferença.
 
 ---
 
