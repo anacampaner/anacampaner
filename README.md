@@ -45,7 +45,7 @@
       </a>
     </strong><br/>
     Projeto acadêmico em equipe com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
-    Tecnologias utilizadas: Java (JAR), processo de ETL com leitura de Excel, AWS S3 e integração com Slack. <br/>
+    Tecnologias utilizadas: Java (JAR), fluxo de ETL com leitura de Excel, AWS S3 e integração com Slack. <br/>
     <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de programação e integração.</em>
   </li>
   <br/>
