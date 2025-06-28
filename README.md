@@ -30,7 +30,7 @@
   <li>
     <strong>
       <a href="https://github.com/SoftWave-SPTech" target="_blank">
-        Sistema de Gestão para Escritório de Advocacia
+        Sistema de Gestão para Escritórios de Advocacia
       </a>
     </strong><br/>
     Projeto acadêmico em equipe voltado à gestão de escritórios de advocacia.<br/>
@@ -45,8 +45,8 @@
       </a>
     </strong><br/>
     Projeto acadêmico com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
-    Tecnologias utilizadas: Java (JAR), CRON, Apache POI para leitura de Excel, AWS S3 e integração com Slack. <br/>
-    <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de automação e integração.</em>
+    Tecnologias utilizadas: Java (JAR), processo de ETL com leitura de Excel, AWS S3 e integração com Slack. <br/>
+    <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de programação e integração.</em>
   </li>
   <br/>
 
