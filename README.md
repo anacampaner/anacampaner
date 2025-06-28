@@ -46,7 +46,7 @@
     </strong><br/>
     Projeto acadêmico com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
     Tecnologias utilizadas: Java (JAR), CRON, Apache POI para leitura de Excel, AWS S3 e integração com Slack. <br/>
-    Foi uma ótima oportunidade de aprendizado em automação de dados, processos de ETL e integração de ferramentas.
+    <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de automação e integração.</em>
   </li>
   <br/>
 
@@ -56,11 +56,12 @@
         Site Pessoal
       </a>
     </strong><br/>
-    Projeto individual simples, mas muito especial para mim. Foi o primeiro site que desenvolvi, onde compartilho um pouco sobre mim e minha paixão por cinematografia. <br/>
+    Projeto individual simples, mas muito especial para mim. Criado com carinho no primeiro semestre da faculdade, onde compartilho um pouco sobre mim e minha paixão por cinematografia. <br/>
     Tecnologias utilizadas: HTML, CSS, JavaScript e Chart.js.
   </li>
 
 </ul>
+
 ---
 
 ### 🌍 Vamos nos conectar!
