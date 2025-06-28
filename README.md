@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
-💼 Estagiária em TI (Ticket Manager) na <strong>Atos</strong> <br/>
+💼 Estagiária em TI na <strong>Atos</strong> <br/>
 </p>
 
 ---
