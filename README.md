@@ -23,13 +23,44 @@
 
 ---
 
-### 📚 Projetos Acadêmicos
+<h3>📌 Projetos Acadêmicos</h3>
 
-🔹 <strong>Sistema de Gestão para Escritório de Advocacia</strong>  
-Projeto desenvolvido em equipe com entregas por sprints e aplicação de tecnologias como React, Spring Boot, Swagger, JWT, JUnit e MySQL.  
-Incluiu documentação técnica, plano de testes, protótipos no Figma e recurso de acessibilidade VLibras.
+<ul>
 
+  <li>
+    <strong>
+      <a href="https://github.com/SoftWave-SPTech" target="_blank">
+        Sistema de Gestão para Escritório de Advocacia
+      </a>
+    </strong><br/>
+    Projeto acadêmico em equipe voltado à gestão de escritórios de advocacia.<br/>
+    Utilizamos ferramentas como React.js, Spring Boot, Swagger, MySQL, JUnit e Figma. <br/>
+  </li>
+  <br/>
 
+  <li>
+    <strong>
+      <a href="https://github.com/Smart-ThinkG1" target="_blank">
+        Plataforma de Apoio à Análise de Marketing para Redes de Fast Food
+      </a>
+    </strong><br/>
+    Projeto acadêmico com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
+    Tecnologias utilizadas: Java (JAR), CRON, Apache POI para leitura de Excel, AWS S3 e integração com Slack. <br/>
+    Foi uma ótima oportunidade de aprendizado em automação de dados, processos de ETL e integração de ferramentas.
+  </li>
+  <br/>
+
+  <li>
+    <strong>
+      <a href="https://github.com/anacampaner/LifeinScenes" target="_blank">
+        Site Pessoal
+      </a>
+    </strong><br/>
+    Projeto individual simples, mas muito especial para mim. Foi o primeiro site que desenvolvi, onde compartilho um pouco sobre mim e minha paixão por cinematografia. <br/>
+    Tecnologias utilizadas: HTML, CSS, JavaScript e Chart.js.
+  </li>
+
+</ul>
 ---
 
 ### 🌍 Vamos nos conectar!
