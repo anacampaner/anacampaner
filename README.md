@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Olá! Boas-vindas ao meu perfil!</h1>
+<h1 align="center">🚀Olá! Boas-vindas ao meu perfil!</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
@@ -12,12 +12,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -40,25 +38,13 @@
 
   <li>
     <strong>
-      <a href="https://github.com/MoisesXX/fastfood-rabbitmq" target="_blank">
-        FastFood RabbitMQ — Producer/Consumer
-      </a>
-    </strong><br/>
-    Projeto acadêmico desenvolvido para estudo de mensageria e comunicação assíncrona via RabbitMQ.<br/>
-    A aplicação simula uma rede de pedidos de fast food, com um serviço produtor e outro consumidor.<br/>
-    Tecnologias utilizadas: Node.js, Spring Boot e RabbitMQ.  
-  </li>
-  <br/>
-
-  <li>
-    <strong>
       <a href="https://github.com/Smart-ThinkG1" target="_blank">
         Plataforma de Apoio à Análise de Marketing para Redes de Fast Food
       </a>
     </strong><br/>
-    Projeto acadêmico em equipe com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes.<br/>
+    Projeto acadêmico em equipe com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
     Tecnologias utilizadas: Java (JAR), fluxo de ETL com leitura de Excel, AWS S3 e integração com Slack. <br/>
-    <em>Desenvolvido em uma fase inicial da graduação.</em>
+    <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de programação e integração.</em>
   </li>
   <br/>
 
@@ -68,7 +54,7 @@
         Site Pessoal
       </a>
     </strong><br/>
-    Projeto individual simples, mas muito especial para mim. Criado com carinho no primeiro semestre da faculdade, onde compartilho um pouco sobre mim e minha paixão por cinematografia.<br/>
+    Projeto individual simples, mas muito especial para mim. Criado com carinho no primeiro semestre da faculdade, onde compartilho um pouco sobre mim e minha paixão por cinematografia. <br/>
     Tecnologias utilizadas: HTML, CSS, JavaScript e Chart.js.
   </li>
 
