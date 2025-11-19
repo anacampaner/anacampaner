@@ -34,6 +34,20 @@
     Projeto acadêmico em equipe voltado à gestão de escritórios de advocacia.<br/>
     Utilizamos ferramentas como React.js, Spring Boot, Swagger, MySQL, JUnit e Figma. <br/>
   </li>
+
+  <br/>
+
+  <li>
+    <strong>
+      <a href="https://github.com/anacampaner/fastfood-rabbitmq" target="_blank">
+        Sistema de Pedidos de Fast Food com RabbitMQ
+      </a>
+    </strong><br/>
+    Projeto acadêmico desenvolvido para estudo de mensageria e comunicação assíncrona entre serviços. <br/>
+    O sistema simula o fluxo de pedidos de uma rede de fast food, com um serviço produtor e outro consumidor. <br/>
+    Tecnologias utilizadas: Node.js, Spring Boot, RabbitMQ e Docker.
+  </li>
+
   <br/>
 
   <li>
