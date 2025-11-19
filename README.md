@@ -1,4 +1,4 @@
-<h1 align="center">🚀Olá! Boas-vindas ao meu perfil!</h1>
+<h1 align="center">🚀 Olá! Boas-vindas ao meu perfil!</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
@@ -40,13 +40,25 @@
 
   <li>
     <strong>
+      <a href="https://github.com/MoisesXX/fastfood-rabbitmq" target="_blank">
+        FastFood RabbitMQ — Producer/Consumer
+      </a>
+    </strong><br/>
+    Projeto acadêmico desenvolvido para estudo de mensageria e comunicação assíncrona via RabbitMQ.<br/>
+    A aplicação simula uma rede de pedidos de fast food, com um serviço produtor e outro consumidor.<br/>
+    Tecnologias utilizadas: Node.js, Spring Boot e RabbitMQ.  
+  </li>
+  <br/>
+
+  <li>
+    <strong>
       <a href="https://github.com/Smart-ThinkG1" target="_blank">
         Plataforma de Apoio à Análise de Marketing para Redes de Fast Food
       </a>
     </strong><br/>
-    Projeto acadêmico em equipe com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes. <br/>
+    Projeto acadêmico em equipe com o objetivo de auxiliar na análise de oportunidades de marketing e percepção da marca, a partir de bases de opiniões de clientes.<br/>
     Tecnologias utilizadas: Java (JAR), fluxo de ETL com leitura de Excel, AWS S3 e integração com Slack. <br/>
-    <em>Desenvolvido em uma fase inicial da graduação, com foco em aplicar conceitos práticos de programação e integração.</em>
+    <em>Desenvolvido em uma fase inicial da graduação.</em>
   </li>
   <br/>
 
@@ -56,7 +68,7 @@
         Site Pessoal
       </a>
     </strong><br/>
-    Projeto individual simples, mas muito especial para mim. Criado com carinho no primeiro semestre da faculdade, onde compartilho um pouco sobre mim e minha paixão por cinematografia. <br/>
+    Projeto individual simples, mas muito especial para mim. Criado com carinho no primeiro semestre da faculdade, onde compartilho um pouco sobre mim e minha paixão por cinematografia.<br/>
     Tecnologias utilizadas: HTML, CSS, JavaScript e Chart.js.
   </li>
 
