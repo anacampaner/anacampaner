@@ -1,7 +1,7 @@
 <h1 align="center">🚀Olá! Boas-vindas ao meu perfil!</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>SPTECH</strong> <br/>
+🎓 Analista e Desenvolvedora de Sistemas <br/>
 💼 Estagiária de TI na <strong>Semantix</strong> <br/>
 </p>
 
